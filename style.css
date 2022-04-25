@@ -1,7 +1,16 @@
 p {
-    color: rgb(20, 166, 54);
+    color: rgb(150, 11, 150);
+    font-size: large;
 }
 
 h1 {
-    color: aqua;
+    color: rgb(110, 17, 59);
+}
+
+h2 {
+    color: crimson;
+}
+
+h3 {
+    color: rgb(0, 128, 17);
 }
